@@ -9,3 +9,12 @@ h1{
     color:yellow;
     background-color: lightgray;
 }
+.fundocinza{
+    background-color: gray;
+}
+.texto{
+    color:red;
+}
+body{
+    font-family: sans-serif;
+}
