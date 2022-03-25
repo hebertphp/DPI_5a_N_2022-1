@@ -1,0 +1,35 @@
+.cor1{
+    background-color: #ff0000;
+}
+.cor2{
+    background-color: #00ff00;
+}
+.cor3{
+    background-color: #0000ff;
+}
+.cor4{
+    background-color: #ffff00;
+}
+.cor20{
+    background-color: #808080;
+}
+/*
+ RRGGBB
+#ff0000;
+#00ff00;
+#0000ff;
+
+#ffffff; branco
+#000000; preta
+#cccccc; cinza claro
+#444444; cinza escuro
+0123456789ABCDEF
+ RRGGBB
+#808080; cinza
+#303030; cinza
+
+RGB
+#f00; vermelho
+#0f0;
+#00f;
+*/

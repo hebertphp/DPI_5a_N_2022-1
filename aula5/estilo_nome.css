@@ -1,0 +1,21 @@
+.cor1{ background-color: red; }
+.cor2{ background-color: green; }
+.cor3{ background-color: blue; }
+.cor4{ background-color: yellow; }
+.cor5{ background-color: grey; }
+.cor6{
+background-color: black;
+color: white;
+}
+#titulo{
+    color: blue;
+}
+#corpo{
+    background-color: whitesmoke;
+}
+/*
+Desafio: 
+Colocar a cor de fundo cinza e texto na cor azul
+para a tag H1 que tem id="titulo"
+Detalhe, reaproveitar classe(s) que já existe(m)
+*/

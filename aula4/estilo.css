@@ -1,6 +1,4 @@
-h2{
-    color:green;
-}
+
 h1{
     color:pink;
     background-color: black;
@@ -17,4 +15,7 @@ h1{
 }
 body{
     font-family: sans-serif;
+}
+h2{
+    color:green;
 }
