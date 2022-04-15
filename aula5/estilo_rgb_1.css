@@ -1,0 +1,26 @@
+.cor1{ background-color: rgb(255,0,0)} /* vermelho */
+.cor2{ background-color: rgb(0, 255, 0); }/* verde */
+.cor3{ background-color: rgb(0%, 0%, 100%); } /* azul */
+.cor4{ background-color: rgb(255, 255, 0); }/* amarela */
+.cor5{ background-color: rgb(128, 128, 128); }/*  cinza */
+.cor6{
+    background-color: #000000;
+    color: #ffffff;
+}
+#corpo{
+    background-color: rgb(175, 236, 231);
+}
+#titulo {background-color: rgb(11, 85, 99);
+    color: rgb(255, 122, 60);
+}
+/*
+1) Alterar as cores da classe cor6, usando valores em RGB
+2) Trocar a cor de fundo da página, usando formatação de cor
+    RGB para o id da página.(OK)
+3) Montar uma formatção para tag H1, usando id.
+
+https://colorhunt.co/
+
+https://coolors.co/
+
+*/

@@ -1,0 +1,14 @@
+.cor1{ background-color: hsl(269, 82%, 13%);}
+.cor2{ background-color: hsl(269, 40%, 39%);}
+.cor3{ background-color: hsl(269, 70%, 50%);}
+#corpo{
+    background-color: hsla(240, 50%, 40%, 0.884);
+}
+
+/*
+Desafio,
+
+Criar três variações da mesma cor de base hsl,
+o valor H tem que ser o mesmo!
+
+*/

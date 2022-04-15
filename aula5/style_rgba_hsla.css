@@ -8,3 +8,10 @@
     background-color: hsl(0, 0%, 0%,0.7); /* preta */
     color: hsl(0, 0%, 100%); /* branca */
 }
+#titulo{
+    background-color: hsl(120,100%,30%);
+    color:white;
+}   
+#titulo:hover{
+    color: hsl(120,100%,70%);
+}

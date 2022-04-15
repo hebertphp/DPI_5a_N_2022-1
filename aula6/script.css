@@ -1,0 +1,17 @@
+body{
+    background-color: whitesmoke;
+}
+.box{
+    background-color: bisque;
+    /* margin-left:10px; */
+    margin: 0 auto;
+    padding-left:20px;
+    border: 5px groove mediumvioletred;
+    width:50%;
+    height:150px;
+    /*
+    800px de largura e 300px de altura
+
+    site para imagens: unsplash
+    */
+}
