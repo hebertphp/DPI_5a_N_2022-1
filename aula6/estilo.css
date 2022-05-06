@@ -1,0 +1,14 @@
+.texto{
+    /* color:blueviolet; */
+    background-color: gray;
+}
+#dv1{
+    border: 2px solid blue;
+    width: 50%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+#dv1 h2{
+    color:green;
+    text-align: center;
+}
