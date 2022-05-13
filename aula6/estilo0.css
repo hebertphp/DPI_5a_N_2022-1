@@ -10,8 +10,11 @@
     width: 80%;
     height: 400px;
     /* background-color: whitesmoke; */
-    background-image: url(img/agua.jpg);
-
+    /* background-image: url(img/agua.jpg); */
+    background-image:url(img/montanha1.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:50% 50%;
 }
 #dv1{
     border: 2px solid red;
@@ -26,5 +29,10 @@
     /* padding: 30px; */
     padding-left: 20px;
     border: 10px solid gray;
-    background-color: hsla(51, 100%, 50%, 0.493);
+    background-image:url(img/computadores.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:50% 50%;
+    /* background-color: hsla(51, 100%, 50%, 0.436); */
+    /* background-image: linear-gradient(45deg,white,grey,black); */
 }
