@@ -8,12 +8,13 @@
     height: 100vh;
     background-image: url(../img/lobinho1.jpg);
     background-size: cover;
-    background-position: 50% 50%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center ; /* segue a direção do flex-direction*/   
-    align-items: center;/* a outra direção*/
-    flex-wrap: wrap;
+    background-position: 50% 70%;
+    background-repeat: no-repeat;
+    display: flex;    
+    flex-direction: column;
+    justify-content: center ; /* segue a direção do flex-direction    */
+    align-items: center;/* a outra direção */
+    /* flex-wrap: wrap; */
 /*
     display: flex;
     flex-direction: column | column-reverse | row | row-reverse;
@@ -26,6 +27,8 @@
 .imagem{
     width: 300px;
     text-align: center;
+    display: flex;
+    flex-direction:row-reverse;
 }
 .imagem img{
     width: 300px;
