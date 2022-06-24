@@ -11,12 +11,17 @@
     <form name="form1" method="post" action="http://hebertphp.awardspace.us/recebe.php">
         <fieldset>
           <legend>Cadastro</legend>
-          Login <input type="text" name="login" required ><br>
-          Senha <input type="password" name="senha" required><br>
+          Login <input type="text" name="login"  required placeholder="Digite seu Login" ><br>
+          Senha <input type="password" name="senha" required placeholder="Digite sua senha"><br>
           Numero<input type="number" name="numero"><br>
           Data <input type="date" name="data"><br>
           E-mail <input type="email" name="email" required><br>
-          <input type="submit" value="Enviar!!">
+          Quais linguagens de programação você conhece?<br>
+
+          <input type="checkbox" name="js"  value="js" > Javascript 
+          <input type="checkbox" name="php" value="php" checked> PHP
+          <input type="checkbox" name="java" value="java"> Java  
+          <input type="submit" value="Cadastrar">
         </fieldset>  
       </form>
 </body>
