@@ -4,7 +4,7 @@
 
 ## Aulas
 
-[Aula1](aula1/index.html)
+[Aula1](aula1/)
 ## Prof. Hebert Bratefixe Alquimim
 
 e-mail: [hebert@uni9.pro.br](mailto:hebert@uni9.pro.br)
